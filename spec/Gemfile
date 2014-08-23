@@ -86,6 +86,5 @@ gem 'rspec-core'  # RSpec runner and example groups.
 gem 'rspec-expectations'  # RSpec matchers for should and should_not.
 gem 'rspec-mocks'  # RSpec test double framework with stubbing and mocking.
 gem 'rspec-rails'  # RSpec version 2.x for Rails version 3.x.
-gem 'mime-types', '~> 1.16'
 
 
