@@ -6,7 +6,7 @@ source 'https://rubygems.org'
 # DEFINE VERSIONS YOU WANT TO TEST AGAINST HERE
 # THIS SHOULD BASICALLY REPLICATE WHAT IS IN THE SANDBOX GEMFILE
 
-gem 'rails', '4.0.5'
+gem 'rails', '4.0.8'
 
 
 #if(File.exists?('/home/ruby_user/SoftwareDev/git/datashift'))
@@ -86,5 +86,6 @@ gem 'rspec-core'  # RSpec runner and example groups.
 gem 'rspec-expectations'  # RSpec matchers for should and should_not.
 gem 'rspec-mocks'  # RSpec test double framework with stubbing and mocking.
 gem 'rspec-rails'  # RSpec version 2.x for Rails version 3.x.
+gem 'mime-types', '~> 1.25'
 
 
